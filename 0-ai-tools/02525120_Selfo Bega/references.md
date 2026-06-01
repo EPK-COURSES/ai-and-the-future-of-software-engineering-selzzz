@@ -1,20 +1,10 @@
-OpenAI Official Website
+1   Oyelude, A. A. (2024). Artificial intelligence (AI) tools for academic research. Library Hi Tech News, 41(8), 18-20.                                                                                                                  2  Fitria, T. N. (2021, December). Artificial intelligence (AI) in education: Using AI tools for teaching and learning process. In Prosiding seminar nasional \& call for paper STIE AAS (Vol. 4, No. 1, pp. 134-147).                                                                                                                                                                                                  3   Phillips-Wren, G. (2012). AI tools in decision making support systems: a review. International Journal on Artificial Intelligence Tools, 21(02), 1240005.
 
-ChatGPT Official Page
+&#x20;4  Pinzolits, R. (2024). AI in academia: An overview of selected tools and their areas of application. MAP Education and Humanities, 4, 37-50.
 
-GitHub Copilot Official Website
+5   Berdejo-Espinola, V., \& Amano, T. (2023). AI tools can improve equity in science. Science, 379(6636), 991-991.
 
-Amazon CodeWhisperer Official Website
+&#x20;6  Venkatesh, V. (2022). Adoption and use of AI tools: a research agenda grounded in UTAUT. Annals of operations research, 308(1), 641-652.                                7  Owan, V. J., Abang, K. B., Idika, D. O., Etta, E. O., \& Bassey, B. A. (2023). Exploring the potential of artificial intelligence tools in educational measurement and assessment. Eurasia journal of mathematics, science and technology education, 19(8), em2307.                                                                                       8  Kimm, G. (2022). Classes of AI tools, techniques, and methods. In Artificial Intelligence in Urban Planning and Design (pp. 61-83). Elsevier.
 
-Tabnine Official Website
-
-Google Gemini Official Website
-
-Microsoft AI Development Tools
-
-IBM Artificial Intelligence Resources
-
-Oracle AI and Machine Learning
-
-Google Cloud AI Documentation
+&#x20;9   De Freitas, J., Agarwal, S., Schmitt, B., \& Haslam, N. (2023). Psychological factors underlying attitudes toward AI tools. Nature Human Behaviour, 7(11), 1845-1854.                                                                                                                                    10   Wuthrich, M. V., Richman, R., Avanzi, B., Lindholm, M., Maggi, M., Mayer, M., ... \& Scognamiglio, S. (2026). AI tools for actuaries. Available at SSRN 5162304.  
 
